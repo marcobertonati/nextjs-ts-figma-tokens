@@ -8,35 +8,68 @@
   "colors": {
     "green": {
       "light": {
-        "value": "#7e13d1",
+        "value": "#5ED012",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       },
       "dark": {
-        "value": "#5f296e",
+        "value": "#286D47",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       }
     },
     "black": {
       "dark": {
-        "value": "#000",
+        "value": "#122108",
         "type": "color",
         "description": "Black color to reading texts."
       }
     },
     "white": {
       "light": {
-        "value": "#fff",
+        "value": "#F7F8F8",
         "type": "color",
         "description": "White color to reading text."
       }
     },
     "grey": {
       "light": {
-        "value": "#939393",
-        "type": "color"
+        "value": "#dadada",
+        "type": "color",
+        "description": "grey"
       }
+    }
+  },
+  "fonts": {
+    "base": {
+      "value": 16,
+      "type": "fontSizes",
+      "description": "Font base used to scale.\n"
+    },
+    "scale": {
+      "value": 1.25,
+      "type": "fontSizes",
+      "description": "Scale"
+    },
+    "paragraph": {
+      "value": 16,
+      "type": "fontSizes",
+      "description": "Size of paragrap."
+    },
+    "h2": {
+      "value": 20,
+      "type": "fontSizes",
+      "description": "h2"
+    },
+    "h1": {
+      "value": 25,
+      "type": "fontSizes",
+      "description": "h1"
+    },
+    "navBarItems": {
+      "value": 12.8,
+      "type": "fontSizes",
+      "description": "navbar items"
     }
   }
 }
