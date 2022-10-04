@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <PageLayout>
       <main >
         <h1 >
-          My Zoleo App
+          My Zoleo App ♥
         </h1>
 
         <h2 >
