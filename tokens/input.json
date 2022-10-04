@@ -47,7 +47,7 @@
       "description": "Font base used to scale.\n"
     },
     "scale": {
-      "value": 3,
+      "value": 1.5,
       "type": "fontSizes",
       "description": "Scale"
     },
@@ -57,17 +57,17 @@
       "description": "Size of paragrap."
     },
     "h2": {
-      "value": "48px",
+      "value": "24px",
       "type": "fontSizes",
       "description": "h2"
     },
     "h1": {
-      "value": "144px",
+      "value": "36px",
       "type": "fontSizes",
       "description": "h1"
     },
     "navBarItems": {
-      "value": "5.333333333333333px",
+      "value": "10.666666666666666px",
       "type": "fontSizes",
       "description": "navbar items"
     }
