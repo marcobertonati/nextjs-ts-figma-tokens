@@ -1,26 +1,26 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 21:24:52 GMT
+ * Generated on Tue, 04 Oct 2022 22:17:55 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --colors-green-light: #d11313;
-  --colors-green-dark: #6e2929;
-  --colors-black-dark: #000;
-  --colors-white-light: #fff;
-  --colors-grey-light: #515151;
+  --colors-green-light: #5ED012;
+  --colors-green-dark: #286D47;
+  --colors-black-dark: #122108;
+  --colors-white-light: #F7F8F8;
+  --colors-grey-light: #dadada;;
   --fonts-base: 16px;
-  --fonts-scale: 1.15;
+  --fonts-scale: 1.5;
   --fonts-paragraph: 16px;
-  --fonts-h2: 18.4px;
-  --fonts-h1: 21.159999999999997px;
-  --fonts-nav-bar-items: 13.913043478260871px;
+  --fonts-h2: 24px;
+  --fonts-h1: 36px;
+  --fonts-nav-bar-items: 10.666666666666666px;
   --card-shadow-small: [object Object];
   --card-shadow-default: [object Object];
   --card-shadow-large: [object Object];
   --shadows-default: #00000080;
-  --border-radius-small: 20px;
-  --border-radius-default: 30px;
-  --border-radius-large: 50px;
+  --border-radius-small: 10px;
+  --border-radius-default: 20px;
+  --border-radius-large: 40px;
 }

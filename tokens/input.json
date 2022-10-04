@@ -8,33 +8,33 @@
   "colors": {
     "green": {
       "light": {
-        "value": "#d11313",
+        "value": "#5ED012",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       },
       "dark": {
-        "value": "#6e2929",
+        "value": "#286D47",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       }
     },
     "black": {
       "dark": {
-        "value": "#000",
+        "value": "#122108",
         "type": "color",
         "description": "Black color to reading texts."
       }
     },
     "white": {
       "light": {
-        "value": "#fff",
+        "value": "#F7F8F8",
         "type": "color",
         "description": "White color to reading text."
       }
     },
     "grey": {
       "light": {
-        "value": "#515151",
+        "value": "#dadada;",
         "type": "color",
         "description": "grey"
       }
@@ -47,7 +47,7 @@
       "description": "Font base used to scale.\n"
     },
     "scale": {
-      "value": 1.15,
+      "value": 1.5,
       "type": "fontSizes",
       "description": "Scale"
     },
@@ -57,17 +57,17 @@
       "description": "Size of paragrap."
     },
     "h2": {
-      "value": "18.4px",
+      "value": "24px",
       "type": "fontSizes",
       "description": "h2"
     },
     "h1": {
-      "value": "21.159999999999997px",
+      "value": "36px",
       "type": "fontSizes",
       "description": "h1"
     },
     "navBarItems": {
-      "value": "13.913043478260871px",
+      "value": "10.666666666666666px",
       "type": "fontSizes",
       "description": "navbar items"
     }
@@ -120,17 +120,17 @@
   },
   "borderRadius": {
     "small": {
-      "value": "20px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Border Radius small."
     },
     "default": {
-      "value": "30px",
+      "value": "20px",
       "type": "borderRadius",
       "description": "Border Radius default."
     },
     "large": {
-      "value": "50px",
+      "value": "40px",
       "type": "borderRadius",
       "description": "Border Radius default."
     }
