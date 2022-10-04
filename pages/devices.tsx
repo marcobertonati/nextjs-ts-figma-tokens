@@ -1,32 +1,20 @@
-import type { NextPage } from 'next'
+import type { NextPage } from "next";
 
-import PageLayout from '../components/PageLayout'
-import TableOfDevices from '../components/table-device/table-device'
+import PageLayout from "../components/PageLayout";
+import TableOfDevices from "../components/table-device/table-device";
 
 const Divices: NextPage = () => {
   return (
-    <div >
       <PageLayout>
-      <main >
-        <h1 >
-          Your Divices
-        </h1>
+        <section>
+          <h1>Your Divices</h1>
 
-        <h2 >
-        A complete list of your devices
-        </h2>
+          <h2>A complete list of your devices</h2>
 
-        <TableOfDevices/>
-
-      </main>
-
+          <TableOfDevices />
+        </section>
       </PageLayout>
+  );
+};
 
-    
-
-      
-    </div>
-  )
-}
-
-export default Divices
+export default Divices;
