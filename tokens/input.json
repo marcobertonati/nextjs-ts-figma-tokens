@@ -42,7 +42,7 @@
   },
   "fonts": {
     "base": {
-      "value": 16,
+      "value": "16px",
       "type": "fontSizes",
       "description": "Font base used to scale.\n"
     },
@@ -52,22 +52,22 @@
       "description": "Scale"
     },
     "paragraph": {
-      "value": 16,
+      "value": "16px",
       "type": "fontSizes",
       "description": "Size of paragrap."
     },
     "h2": {
-      "value": 20,
+      "value": "20px",
       "type": "fontSizes",
       "description": "h2"
     },
     "h1": {
-      "value": 25,
+      "value": "25px",
       "type": "fontSizes",
       "description": "h1"
     },
     "navBarItems": {
-      "value": 12.8,
+      "value": "12.8px",
       "type": "fontSizes",
       "description": "navbar items"
     }

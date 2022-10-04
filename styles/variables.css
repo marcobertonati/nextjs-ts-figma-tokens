@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 17:18:15 GMT
+ * Generated on Tue, 04 Oct 2022 17:22:11 GMT
  */
 
 :root {
@@ -10,10 +10,10 @@
   --colors-black-dark: #122108;
   --colors-white-light: #F7F8F8;
   --colors-grey-light: #dadada;
-  --fonts-base: 16;
+  --fonts-base: 16px;
   --fonts-scale: 1.25;
-  --fonts-paragraph: 16;
-  --fonts-h2: 20;
-  --fonts-h1: 25;
-  --fonts-nav-bar-items: 12.8;
+  --fonts-paragraph: 16px;
+  --fonts-h2: 20px;
+  --fonts-h1: 25px;
+  --fonts-nav-bar-items: 12.8px;
 }
