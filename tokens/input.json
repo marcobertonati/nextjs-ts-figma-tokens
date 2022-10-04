@@ -8,33 +8,33 @@
   "colors": {
     "green": {
       "light": {
-        "value": "#5ED012",
+        "value": "#7e13d1",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       },
       "dark": {
-        "value": "#286D47",
+        "value": "#5f296e",
         "type": "color",
         "description": "Brand color My Zoleo App.\n"
       }
     },
     "black": {
       "dark": {
-        "value": "#122108",
+        "value": "#000",
         "type": "color",
         "description": "Black color to reading texts."
       }
     },
     "white": {
       "light": {
-        "value": "#F7F8F8",
+        "value": "#fff",
         "type": "color",
         "description": "White color to reading text."
       }
     },
     "grey": {
       "light": {
-        "value": "#dadada",
+        "value": "#939393",
         "type": "color"
       }
     }

@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 16:52:01 GMT
+ * Generated on Tue, 04 Oct 2022 16:58:30 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --colors-green-light: #5ED012;
-  --colors-green-dark: #286D47;
-  --colors-black-dark: #122108;
-  --colors-white-light: #F7F8F8;
-  --colors-grey-light: #dadada;
+  --colors-green-light: #7e13d1;
+  --colors-green-dark: #5f296e;
+  --colors-black-dark: #000;
+  --colors-white-light: #fff;
+  --colors-grey-light: #939393;
 }
