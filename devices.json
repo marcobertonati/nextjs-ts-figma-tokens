@@ -1,0 +1,28 @@
+{
+    "devices": [
+        {
+            "id": "1",
+            "name": "Device 1",
+            "description": "This is your first device.",
+            "price": 75000
+        },
+        {
+            "id": "2",
+            "name": "Device 2",
+            "description": "This is your second device.",
+            "price": 7000
+        },
+        {
+            "id": "3",
+            "name": "Device 3",
+            "description": "This is your three device.",
+            "price": 5000
+        },
+        {
+            "id": "4",
+            "name": "Device 4",
+            "description": "This is your four devices.",
+            "price": 20000
+        }
+    ]
+}

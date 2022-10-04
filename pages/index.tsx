@@ -12,8 +12,12 @@ const Home: NextPage = () => {
         </h1>
 
         <h2 >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates cum, reprehenderit sunt quisquam cumque enim autem magni quam saepe ut placeat. Aperiam aliquid voluptas iure! Laboriosam ducimus omnis eveniet. Quo!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
         </h2>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus adipisci, quaerat eius expedita sunt maxime quia temporibus et quis eaque perspiciatis animi doloribus exercitationem, reiciendis minima est quibusdam perferendis amet.
+        </p>
       </main>
 
       </PageLayout>

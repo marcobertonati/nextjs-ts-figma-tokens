@@ -12,6 +12,19 @@ main {
   background-color: var(--colors-white-light);
 }
 
+h1 {
+  font-size: var(--fonts-h1);
+}
+
+h2 {
+  font-size: var(--fonts-h2);
+}
+
+p {
+  font-size: var(--fonts-paragraph);
+  color: var(--colors-black-dark);
+}
+
 footer {
   background-color: var(--colors-green-light);
 }
@@ -35,6 +48,11 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+
+a {
+  color: var(--colors-white-light);
+  text-decoration: none;
 }
 
 /* @media (prefers-color-scheme: dark) {
