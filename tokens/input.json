@@ -1,0 +1,36 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
+  "colors": {
+    "green": {
+      "light": {
+        "value": "#5ED012",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
+      },
+      "dark": {
+        "value": "#286D47",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
+      }
+    },
+    "black": {
+      "dark": {
+        "value": "#122108",
+        "type": "color",
+        "description": "Black color to reading texts."
+      }
+    },
+    "white": {
+      "light": {
+        "value": "#F7F8F8",
+        "type": "color",
+        "description": "White color to reading text."
+      }
+    }
+  }
+}
