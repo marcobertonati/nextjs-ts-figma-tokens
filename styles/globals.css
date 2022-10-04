@@ -1,5 +1,28 @@
 @import "./variables.css";
 
+nav {
+  background-color: var(--colors-green-dark);
+}
+
+header {
+  background-color: var(--colors-grey-light);
+}
+
+main {
+  background-color: var(--colors-white-light);
+}
+
+footer {
+  background-color: var(--colors-green-light);
+}
+
+h1 {
+  color: var(--colors-green-dark);
+}
+
+h2 {
+  color: var(--colors-black-dark);
+}
 
 html,
 body {
@@ -8,17 +31,13 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
@@ -26,4 +45,4 @@ a {
     color: white;
     background: black;
   }
-}
+} */
