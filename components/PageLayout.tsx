@@ -10,7 +10,7 @@ export default function PageLayout({
   return (
     <div >
       <Head>
-        <title>My Zoleo App</title>
+        <title>My Zoleo App ♥</title>
         <meta
           name="My Zoleo App"
           content="The application to My Zoleo App"
