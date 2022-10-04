@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 17:25:33 GMT
+ * Generated on Tue, 04 Oct 2022 19:56:00 GMT
  */
 
 :root {
@@ -16,4 +16,11 @@
   --fonts-h2: 24px;
   --fonts-h1: 36px;
   --fonts-nav-bar-items: 10.666666666666666px;
+  --card-shadow-small: [object Object];
+  --card-shadow-default: [object Object];
+  --card-shadow-large: [object Object];
+  --shadows-default: #00000080;
+  --border-radius-small: 10px;
+  --border-radius-default: 20px;
+  --border-radius-large: 40px;
 }
