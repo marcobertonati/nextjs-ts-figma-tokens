@@ -1,0 +1,29 @@
+@import "../../../styles/variables.css";
+
+.button {
+  padding: 0.5rem 2rem;
+  border: transparent 1px solid;
+  border-radius: var(--border-radius-default);
+  box-shadow: 0px 4px 5px var(--shadows-default);
+  cursor: pointer;
+}
+
+.type-primary {
+  color: var(--colors-white-light);
+  background-color: var(--colors-green-light);
+}
+
+.type-primary:hover {
+  background: rgb(94, 208, 18);
+  filter: brightness(1.1);
+}
+
+.type-secondary {
+  color: var(--colors-green-dark);
+  background-color: var(--colors-white-light);
+  border: 1px solid var(--colors-green-light);
+}
+
+.type-secondary:hover {
+  font-weight: bold;
+}

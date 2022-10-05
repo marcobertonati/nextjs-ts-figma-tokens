@@ -17,10 +17,12 @@ li {
 }
 
 header {
-  background-color: var(--colors-grey-light);
+  background-color: var(--colors-white-light);
 }
 
 .img-header {
+  /* display: block;
+  max-height: 400px */
 }
 
 main {
@@ -78,7 +80,7 @@ h2 {
 }
 .single-card {
   background-color: var(--colors-grey-light);
-  border-radius: var(--border-radius-small);
+  border-radius: var(--border-radius-large);
   box-shadow: var(--card-shadow-default);
   padding: 1rem;
 }
