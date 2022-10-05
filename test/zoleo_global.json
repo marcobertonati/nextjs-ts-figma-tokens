@@ -1,0 +1,216 @@
+{
+  "brand": {
+    "primary": {
+      "green_25": {
+        "value": "#FBFBFB",
+        "type": "color"
+      },
+      "green_50": {
+        "value": "#F3F7F5",
+        "type": "color"
+      },
+      "green_100": {
+        "value": "#C1D5CA",
+        "type": "color"
+      },
+      "green_200": {
+        "value": "#8EB29E",
+        "type": "color"
+      },
+      "green_300": {
+        "value": "#75A189",
+        "type": "color"
+      },
+      "green_400": {
+        "value": "#5B9073",
+        "type": "color"
+      },
+      "green_500": {
+        "value": "#286D47",
+        "type": "color"
+      },
+      "green_600": {
+        "value": "#205638",
+        "type": "color"
+      },
+      "green_700": {
+        "value": "#173E29",
+        "type": "color"
+      },
+      "green_800": {
+        "value": "#0F271A",
+        "type": "color"
+      },
+      "green_900": {
+        "value": "#060F0A",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "green": {
+        "25": {
+          "value": "#FEFFFE",
+          "type": "color"
+        },
+        "50": {
+          "value": "#F3F7F5",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E6F3E3",
+          "type": "color"
+        },
+        "200": {
+          "value": "#BEE6AA",
+          "type": "color"
+        },
+        "300": {
+          "value": "#89D45E",
+          "type": "color"
+        },
+        "400": {
+          "value": "#63A853",
+          "type": "color"
+        },
+        "500": {
+          "value": "#3D7C47",
+          "type": "color"
+        },
+        "600": {
+          "value": "#347046",
+          "type": "color"
+        },
+        "700": {
+          "value": "#2A6344",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1A3A24",
+          "type": "color"
+        },
+        "900": {
+          "value": "#122108",
+          "type": "color"
+        }
+      },
+      "teal": {
+        "25": {
+          "value": "#F5FFFF",
+          "type": "color"
+        },
+        "50": {
+          "value": "#EFFBFB",
+          "type": "color"
+        },
+        "100": {
+          "value": "#CFF2F0",
+          "type": "color"
+        },
+        "200": {
+          "value": "#B9ECE9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#A7E5E2",
+          "type": "color"
+        },
+        "400": {
+          "value": "#83D7D4",
+          "type": "color"
+        },
+        "500": {
+          "value": "#68D8D6",
+          "type": "color"
+        },
+        "600": {
+          "value": "#2CA6A1",
+          "type": "color"
+        },
+        "700": {
+          "value": "#0C766F",
+          "type": "color"
+        },
+        "800": {
+          "value": "#16504D",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0C3131",
+          "type": "color"
+        }
+      },
+      "red": {
+        "25": {
+          "value": "#FCFAFA",
+          "type": "color"
+        },
+        "50": {
+          "value": "#FAF1EF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#F3E7E2",
+          "type": "color"
+        },
+        "200": {
+          "value": "#D99181",
+          "type": "color"
+        },
+        "300": {
+          "value": "#BC4B38",
+          "type": "color"
+        },
+        "400": {
+          "value": "#A22C2F",
+          "type": "color"
+        },
+        "500": {
+          "value": "#870C25",
+          "type": "color"
+        },
+        "600": {
+          "value": "#7B1D28",
+          "type": "color"
+        },
+        "700": {
+          "value": "#6E0613",
+          "type": "color"
+        },
+        "800": {
+          "value": "#3F050C",
+          "type": "color"
+        },
+        "900": {
+          "value": "#100405",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "brandName": {
+    "value": "ZOLEO",
+    "type": "other"
+  },
+  "fontFamilies": {
+    "brand": {
+      "body": {
+        "value": "Noto Sans",
+        "type": "fontFamilies"
+      },
+      "heading": {
+        "value": "Noto Sans",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "fontWeights": {
+    "default": {
+      "value": "{fontWeights.noto-sans-1}",
+      "type": "fontWeights"
+    },
+    "emphasis": {
+      "value": "{fontWeights.noto-sans-0}",
+      "type": "fontWeights"
+    }
+  }
+}

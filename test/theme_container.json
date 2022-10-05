@@ -1,0 +1,124 @@
+{
+  "size": {
+    "fixed": {
+      "xs": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{size.10}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{size.12}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "{size.20}",
+        "type": "sizing"
+      }
+    },
+    "fill": {
+      "value": "fill_containter",
+      "type": "sizing"
+    },
+    "hug": {
+      "value": "hug_contents",
+      "type": "sizing"
+    }
+  },
+  "Token Set Name": {
+    "value": "theme_container",
+    "type": "other"
+  },
+  "space": {
+    "between": {
+      "fixed": {
+        "xs": {
+          "value": "{space.fixed.1}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{space.fixed.2}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{space.fixed.4}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{space.fixed.8}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{space.fixed.10}",
+          "type": "spacing"
+        }
+      },
+      "fill": {
+        "value": "{space.fill}",
+        "type": "spacing"
+      }
+    }
+  },
+  "stroke": {
+    "xs": {
+      "value": "{stroke.1}",
+      "type": "borderWidth"
+    },
+    "null": {
+      "value": "{stroke.0}",
+      "type": "borderWidth"
+    },
+    "sm": {
+      "value": "{stroke.2}",
+      "type": "borderWidth"
+    },
+    "md": {
+      "value": "{stroke.3}",
+      "type": "borderWidth"
+    },
+    "lg": {
+      "value": "{stroke.4}",
+      "type": "borderWidth"
+    },
+    "xl": {
+      "value": "{stroke.5}",
+      "type": "borderWidth"
+    }
+  },
+  "radius": {
+    "square": {
+      "value": "{radius.0}",
+      "type": "borderRadius"
+    },
+    "xxs": {
+      "value": "{radius.4}",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "{radius.8}",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "{radius.12}",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "{radius.16}",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "{radius.28}",
+      "type": "borderRadius"
+    },
+    "round": {
+      "value": "{radius.100}",
+      "type": "borderRadius"
+    }
+  }
+}

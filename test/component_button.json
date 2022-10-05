@@ -1,0 +1,113 @@
+{
+  "buttonlabel_text": {
+    "cta": {
+      "value": "{label.large.default}",
+      "type": "typography"
+    },
+    "text": {
+      "value": "{label.large.underline}",
+      "type": "typography"
+    }
+  },
+  "buttonlabel_container": {
+    "cta": {
+      "value": "{size.hug}",
+      "type": "sizing"
+    },
+    "text": {
+      "value": "{size.hug}",
+      "type": "sizing"
+    }
+  },
+  "icon_button_size": {
+    "touchpoint": {
+      "value": "{size.fixed.md}",
+      "type": "sizing",
+      "description": "The touchpoint size of the icon button."
+    },
+    "icon_container": {
+      "value": "{size.fixed.sm}",
+      "type": "sizing"
+    },
+    "icon": {
+      "value": "{size.6}",
+      "type": "sizing"
+    }
+  },
+  "buttonlabel_space": {
+    "cta": {
+      "value": "{space.between.fill}",
+      "type": "spacing",
+      "description": "space between = auto"
+    },
+    "text": {
+      "value": "{space.between.fill}",
+      "type": "spacing",
+      "description": "space between = auto"
+    }
+  },
+  "button_icon": {
+    "cta": {
+      "value": "{iconwrapper.md}",
+      "type": "sizing"
+    },
+    "text": {
+      "value": "{iconwrapper.md}",
+      "type": "sizing"
+    }
+  },
+  "buttoncontainer_height": {
+    "cta": {
+      "value": "{size.fixed.md}",
+      "type": "sizing"
+    },
+    "text": {
+      "value": "{size.fixed.md}",
+      "type": "sizing"
+    }
+  },
+  "buttoncontainer_elevation": {
+    "cta": {
+      "value": "{shadow.theme.40}",
+      "type": "boxShadow"
+    }
+  },
+  "buttoncontainer_spacebetween": {
+    "cta": {
+      "value": "{space.between.fixed.sm}",
+      "type": "spacing"
+    },
+    "text": {
+      "value": "{space.between.fixed.sm}",
+      "type": "spacing"
+    }
+  },
+  "buttoncontainer_radius": {
+    "cta": {
+      "value": "{radius.lg}",
+      "type": "borderRadius"
+    },
+    "text": {
+      "value": "{radius.lg}",
+      "type": "borderRadius"
+    },
+    "icon": {
+      "value": "{radius.round}",
+      "type": "borderRadius"
+    }
+  },
+  "buttoncontainer_padding": {
+    "cta": {
+      "value": "{space.fixed.4}",
+      "type": "spacing"
+    },
+    "text": {
+      "value": "{space.fixed.4}",
+      "type": "spacing"
+    }
+  },
+  "component set name": {
+    "value": "component_button",
+    "type": "other"
+  }
+}

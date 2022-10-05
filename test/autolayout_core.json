@@ -1,0 +1,52 @@
+{
+  "autolayout": {
+    "display": {
+      "flex": {
+        "value": "true",
+        "type": "other"
+      }
+    },
+    "flexdirection": {
+      "row": {
+        "value": "true",
+        "type": "other"
+      },
+      "column": {
+        "value": "true",
+        "type": "other"
+      }
+    },
+    "justify-content": {
+      "flex-start": {
+        "value": "left",
+        "type": "other"
+      },
+      "center": {
+        "value": "middle",
+        "type": "other"
+      },
+      "flex-end": {
+        "value": "right",
+        "type": "other"
+      },
+      "space-between": {
+        "value": "equal",
+        "type": "other"
+      }
+    },
+    "align-items": {
+      "flex-start": {
+        "value": "top",
+        "type": "other"
+      },
+      "center": {
+        "value": "middle",
+        "type": "other"
+      },
+      "flex-end": {
+        "value": "bottom",
+        "type": "other"
+      }
+    }
+  }
+}
