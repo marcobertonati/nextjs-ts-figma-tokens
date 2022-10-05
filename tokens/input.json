@@ -1,0 +1,143 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
+  "colors": {
+    "green": {
+      "light": {
+        "value": "#5ED012",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
+      },
+      "dark": {
+        "value": "#286D47",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
+      }
+    },
+    "black": {
+      "dark": {
+        "value": "#122108",
+        "type": "color",
+        "description": "Black color to reading texts."
+      }
+    },
+    "white": {
+      "light": {
+        "value": "#F7F8F8",
+        "type": "color",
+        "description": "White color to reading text."
+      }
+    },
+    "grey": {
+      "light": {
+        "value": "#dadada;",
+        "type": "color",
+        "description": "grey"
+      }
+    }
+  },
+  "fonts": {
+    "base": {
+      "value": "16px",
+      "type": "fontSizes",
+      "description": "Font base used to scale.\n"
+    },
+    "scale": {
+      "value": 1.15,
+      "type": "fontSizes",
+      "description": "Scale"
+    },
+    "paragraph": {
+      "value": "16px",
+      "type": "fontSizes",
+      "description": "Size of paragrap."
+    },
+    "h3": {
+      "value": "18.4px",
+      "type": "fontSizes",
+      "description": "h2"
+    },
+    "h2": {
+      "value": "21.159999999999997px",
+      "type": "fontSizes",
+      "description": "h2"
+    },
+    "h1": {
+      "value": "24.333999999999993px",
+      "type": "fontSizes",
+      "description": "h1"
+    },
+    "navBarItems": {
+      "value": "13.913043478260871px",
+      "type": "fontSizes",
+      "description": "navbar items"
+    }
+  },
+  "card": {
+    "shadow": {
+      "small": {
+        "value": {
+          "x": 0,
+          "y": 5,
+          "blur": 0,
+          "spread": 0,
+          "color": "#00000080",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "Small shadow."
+      },
+      "default": {
+        "value": {
+          "x": 0,
+          "y": 5,
+          "blur": 5,
+          "spread": 0,
+          "color": "#00000080",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "Default shadow."
+      },
+      "large": {
+        "value": {
+          "x": 0,
+          "y": 5,
+          "blur": 15,
+          "spread": 0,
+          "color": "#00000080",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "Large shadow."
+      }
+    }
+  },
+  "shadows": {
+    "default": {
+      "value": "#00000080",
+      "type": "color"
+    }
+  },
+  "borderRadius": {
+    "small": {
+      "value": "10px",
+      "type": "borderRadius",
+      "description": "Border Radius small."
+    },
+    "default": {
+      "value": "20px",
+      "type": "borderRadius",
+      "description": "Border Radius default."
+    },
+    "large": {
+      "value": "40px",
+      "type": "borderRadius",
+      "description": "Border Radius default."
+    }
+  }
+}
