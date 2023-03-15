@@ -19,7 +19,9 @@ jobs:
           commit_message: Update Tokens
       - run: git config user.email 6412283c1273131f2ae0da11@bots.bitbucket.org
       - run: git remote add bitbucket https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
-      - run: git clone https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
       - run: ls
       - run: git remote -v 
+      - run: git status
+      - run: git add styles
+      - run: git commit -m"Variables"
       - run: git push bitbucket main
