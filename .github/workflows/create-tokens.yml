@@ -17,9 +17,15 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
-      - run: git config user.email 6412283c1273131f2ae0da11@bots.bitbucket.org
-      - run: git remote add bitbucket https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
-      - run: git clone https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
-      - run: ls
-      - run: git remote -v 
-      - run: git push bitbucket main
+      - uses: zent-contrib/git-branch-sync-action@v1
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        with:
+          source-branch: main
+          destination-repo: "git@bitbucket.org:mbertonati-89/test-pipeline.git"
+      # - run: git config user.email 6412283c1273131f2ae0da11@bots.bitbucket.org
+      # - run: git remote add bitbucket https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
+      # - run: git clone https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
+      # - run: ls
+      # - run: git remote -v 
+      # - run: git push bitbucket main
