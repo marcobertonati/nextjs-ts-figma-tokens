@@ -1,10 +1,4 @@
 {
-  "tokenSetOrder": {
-    "0": {
-      "value": "global",
-      "type": "other"
-    }
-  },
   "colors": {
     "green": {
       "light": {
@@ -37,6 +31,18 @@
         "value": "#dadada;",
         "type": "color",
         "description": "grey"
+      }
+    },
+    "red": {
+      "light": {
+        "value": "#d11313",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
+      },
+      "dark": {
+        "value": "#ff774e",
+        "type": "color",
+        "description": "Brand color My Zoleo App.\n"
       }
     }
   },
@@ -138,6 +144,12 @@
       "value": "40px",
       "type": "borderRadius",
       "description": "Border Radius default."
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
     }
   }
 }

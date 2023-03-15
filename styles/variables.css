@@ -1,15 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Oct 2022 21:18:35 GMT
+ * Generated on Wed, 15 Mar 2023 19:56:10 GMT
  */
 
 :root {
-  --token-set-order-0: global;
   --colors-green-light: #5ED012;
   --colors-green-dark: #286D47;
   --colors-black-dark: #122108;
   --colors-white-light: #F7F8F8;
   --colors-grey-light: #dadada;;
+  --colors-red-light: #d11313;
+  --colors-red-dark: #ff774e;
   --fonts-base: 16px;
   --fonts-scale: 1.15;
   --fonts-paragraph: 16px;
@@ -24,4 +25,5 @@
   --border-radius-small: 10px;
   --border-radius-default: 20px;
   --border-radius-large: 40px;
+  --token-set-order-0: global;
 }
