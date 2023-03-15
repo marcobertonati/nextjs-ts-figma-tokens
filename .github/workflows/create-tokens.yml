@@ -14,9 +14,9 @@ jobs:
       # Covert tokens according to Style Dictionary config
       - run: npx style-dictionary build --config config.json
       # Add files that were created during a run, e.g. created files from style dictionarty or token-transofrmer
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update Tokens
+      # - uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: Update Tokens
       - run: git config user.email 6412283c1273131f2ae0da11@bots.bitbucket.org
       - run: git config --global user.name mbertonati
       - run: git remote add bitbucket https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
