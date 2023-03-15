@@ -17,6 +17,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
-      - name: Add Bitbucket remote
       - run: git remote add bitbucket https://mbertonati@bitbucket.org/mbertonati-89/test-pipeline.git
       - run: git push bitbucket main
